@@ -1,0 +1,40 @@
+- Use Azure DevOps
+  - Start free
+    - $6/user
+	- Pipeline integration with Github and more
+  - Azure Boards for agile planning
+    - Track all from idea from release
+	- Scrum ready
+	- Project insights
+	- Configurable dashboards
+	- Use Backlogs view for planning
+  - Azure Repos
+    - Works with Git client
+	- Web hooks and API integration
+	- Semantic code search
+  - Azure Pipelines
+    - Any language, any platform, any cloud
+	- Extensible
+	- Containers and Kubernetes
+	- Best-in-class for open source
+	  - Azure Resource Manager & DevOps Tools Integrations (deploy repeatedly & reliably)
+		- Infrastructure as code (ARM)
+		- Azure Automation & Config
+		- Support for Terraform, Ansible & Chef
+		- Write your own extensions
+	- Use case: rotate production secrets (e.g. storage account key rotation)
+  - Azure Test Plans
+    - Capture rich data
+	- Test across web and desktop
+	- Get end to end traceability
+	- 3 Suite types with "shared steps"
+	  - Static suite
+	  - Requirement-based suite
+	  - Query-based suite
+  - Azure Artifacts
+    - Create and share Maven, npm, and NuGet packge feeds from public and private sources
+    - Manage all package types
+	- Add packages to any pipeline
+	- Share code efficiently
+	- Private vs. shared Artifacts
+	- Tip: you can use Azure DevOps to test and publish Artifacts to Azure Artifacts
